@@ -1,3 +1,8 @@
 hello world this is my git command
 
+<<<<<<< Updated upstream
 Do you think i am doing right??
+=======
+
+nice to meet you, Git!!!!
+>>>>>>> Stashed changes
