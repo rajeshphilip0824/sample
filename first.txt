@@ -7,4 +7,4 @@ This was added in the feature branch
 The value has been upated in the code
 The bug was resolved
 another feature is added and on going work
-
+another bug is resolved
