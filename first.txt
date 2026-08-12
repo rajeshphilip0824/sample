@@ -8,3 +8,4 @@ The value has been upated in the code
 The bug was resolved
 another feature is added and on going work
 another bug is resolved
+another feature add on the branch feature_1 on git repo
