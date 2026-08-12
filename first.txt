@@ -6,4 +6,5 @@ This is the example of stash, i am going to stash this
 This was added in the feature branch
 The value has been upated in the code
 The bug was resolved
+another feature is added and on going work
 
