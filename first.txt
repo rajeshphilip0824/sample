@@ -12,4 +12,4 @@ Everything was removed from first main file
 nice to meet you, Git!!!!
 
 This is the example of stash, i am going to stash this
-
+The bug was resolved
