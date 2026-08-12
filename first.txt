@@ -3,5 +3,13 @@ hello world this is my git command
 
 Do you think i am doing right??
 
+
 nice to meet you, Git!!!!
 Everything was removed from first main file
+
+
+
+nice to meet you, Git!!!!
+
+This is the example of stash, i am going to stash this
+
